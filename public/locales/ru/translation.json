@@ -1,5 +1,14 @@
 {
     "main": {
-        "header": "Добро пожаловать в приложение!"
+        "header": "Добро пожаловать в приложение!",
+        "new_messages_zero": "Сообщений нет!",
+        "new_messages_one": "У вас одно новое сообщение!",
+        "new_messages_few": "У вас два новых сообщения!",
+        "new_messages_many": "У вас {{count}} новых сообщений!",
+        "current_date": "Сегодня {{date, DATE_SHOT}}",
+        "incoming_message": "У тебя новое сообщение от {{from}}",
+        "message_contents": "Они говорят:{{body}}",
+        "message_contents_male": "Он говорит: {{body}}",
+        "message_contents_female": "Она говорит: {{body}}"
     }
 }
